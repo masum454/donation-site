@@ -1,0 +1,189 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+
+.flooded {
+    background-image: url(hungry.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 170px;
+
+}
+
+.design-part {
+    color: white;
+    text-align: center;
+}
+
+.design-part h1 {
+    font-size: 80px;
+}
+
+.design-part p {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: rgb(226, 36, 36);
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.design-part-2 {
+    text-align: center;
+}
+
+.donate h1 {
+    font-size: 50px;
+}
+
+.donate p {
+    color: gray;
+
+}
+
+.amount {
+    display: flex;
+    padding-left: 12%;
+}
+
+.amount p {
+    background-color: rgb(247, 241, 241);
+    color: rgb(118, 116, 116);
+    padding: 50px;
+    font-weight: 600;
+    font-size: 30px;
+
+}
+
+.p1 {
+    background-color: white;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 30px;
+
+
+}
+
+.p2 {
+    background-color: white;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.p3 {
+    background-color: white;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.p4 {
+    background-color: white;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.p5 {
+    background-color: white;
+    padding: 30px;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.donate-button {
+    background-color: rgb(226, 36, 36);
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px 30px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+}
+
+.donation-amount input {
+    padding: 12px 10px;
+    width: 50%;
+    text-align: center;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-color: rgb(213, 210, 210);
+    font-size: 20px;
+}
+
+.donate {
+    text-align: center;
+}
+
+.design-part-3 {
+    display: flex;
+}
+
+.half-width-1 {
+    width: 100%;
+    padding: 1%;
+    padding-left: 2%;
+    padding-top: 5%;
+    text-align: left;
+    box-sizing: border-box;
+    background-color: rgb(232, 246, 246);
+}
+
+.half-width-2 {
+    width: 100%;
+    padding: 1%;
+    padding-left: 2%;
+    padding-top: 5%;
+    text-align: left;
+    box-sizing: border-box;
+    background-color: rgb(255, 230, 234);
+
+
+}
+
+.half-width-3 {
+    width: 100%;
+    padding: 1%;
+    padding-left: 2%;
+    padding-top: 5%;
+    text-align: left;
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 192);
+
+
+}
+
+
+
+.footer-design {
+    background-color: black;
+    text-align: center;
+    padding: 1%;
+}
+
+.footer-design h1 {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Splash', cursive;
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;
+    color: rgb(214, 21, 21);
+}
+
+.footer-design p {
+    color: white;
+}
+
+section {
+    margin-bottom: 100px;
+}
